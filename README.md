@@ -8,6 +8,7 @@ A list of technologies used within the project:
 - HTML
 - CSS
 - JavaScript
+- ZlFetch library (you don't have to download because it is in the project with the script tag)
 
 ## Installation
 A little intro about the installation. 
